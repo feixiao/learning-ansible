@@ -48,7 +48,7 @@
 
 #### 执行Playbooks
 
-
+​	[使用ansible安装nginx](./playbooks)
 
 ### 资料索引
 
